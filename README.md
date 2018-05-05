@@ -9,3 +9,5 @@ JS библиотеки :
 <li>jquery 1.11.3</li>
 <li>lettering 0.6.1</li>
 <li>textillate</li>
+
+Доступно по адресу : https://jurazubach.github.io/homepage/
